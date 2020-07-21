@@ -1,0 +1,1 @@
+web: codedaddies_list.wsgi
